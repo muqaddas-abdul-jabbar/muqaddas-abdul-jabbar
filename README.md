@@ -1,4 +1,5 @@
 ## Hi there 👋
+author:Muqaddas Abdul Jabbar
 
 <!--
 **muqaddas-abdul-jabbar/muqaddas-abdul-jabbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
